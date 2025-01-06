@@ -1,5 +1,17 @@
-# OCR_for_text_extraction
-Different OCR techniques for text extraction.
+# OCR for text_extraction
+
+
+This repository provides overview of OCR methods, ranging from traditional models to advanced transformer-based and multimodal models. All methods are implemented and demonstrated using Google Colab notebook ```OCR_techniques.ipynb```.
+
+
+**OCR Methods**
+
+* EasyOCR
+* docTR
+* TrOCR 
+* Nougat OCR
+* Gemini 2.0 Flash Model
+
 
 First install requirements.
 ```
@@ -65,5 +77,6 @@ First install requirements.
   ]
 }
 ```
+
 * Reference:
 1. https://github.com/JaidedAI/EasyOCR
